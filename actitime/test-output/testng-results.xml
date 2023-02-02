@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-02-01T20:58:21 IST" name="Default suite" finished-at="2023-02-01T20:59:25 IST" duration-ms="64696">
+    <groups>
+    </groups>
+    <test started-at="2023-02-01T20:58:21 IST" name="Default test" finished-at="2023-02-01T20:59:25 IST" duration-ms="64696">
+      <class name="HomePageTest.ToVerifyHomePageTitle">
+        <test-method is-config="true" signature="bsCounfig()[pri:0, instance:HomePageTest.ToVerifyHomePageTitle@a530d0a]" started-at="2023-02-01T20:58:21 IST" name="bsCounfig" finished-at="2023-02-01T20:58:21 IST" duration-ms="18" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bsCounfig -->
+        <test-method is-config="true" signature="bcCounfig()[pri:0, instance:HomePageTest.ToVerifyHomePageTitle@a530d0a]" started-at="2023-02-01T20:58:21 IST" name="bcCounfig" finished-at="2023-02-01T20:59:05 IST" duration-ms="44107" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bcCounfig -->
+        <test-method is-config="true" signature="bMCounfig()[pri:0, instance:HomePageTest.ToVerifyHomePageTitle@a530d0a]" started-at="2023-02-01T20:59:05 IST" name="bMCounfig" finished-at="2023-02-01T20:59:08 IST" duration-ms="2746" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bMCounfig -->
+        <test-method signature="toVerifyPageTitleTest()[pri:0, instance:HomePageTest.ToVerifyHomePageTitle@a530d0a]" started-at="2023-02-01T20:59:08 IST" name="toVerifyPageTitleTest" finished-at="2023-02-01T20:59:18 IST" duration-ms="10907" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- toVerifyPageTitleTest -->
+        <test-method is-config="true" signature="AmCounfig()[pri:0, instance:HomePageTest.ToVerifyHomePageTitle@a530d0a]" started-at="2023-02-01T20:59:18 IST" name="AmCounfig" finished-at="2023-02-01T20:59:21 IST" duration-ms="2128" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AmCounfig -->
+        <test-method is-config="true" signature="AcCounfig()[pri:0, instance:HomePageTest.ToVerifyHomePageTitle@a530d0a]" started-at="2023-02-01T20:59:21 IST" name="AcCounfig" finished-at="2023-02-01T20:59:25 IST" duration-ms="4667" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AcCounfig -->
+        <test-method is-config="true" signature="AsCounfig()[pri:0, instance:HomePageTest.ToVerifyHomePageTitle@a530d0a]" started-at="2023-02-01T20:59:29 IST" name="AsCounfig" finished-at="2023-02-01T20:59:29 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AsCounfig -->
+      </class> <!-- HomePageTest.ToVerifyHomePageTitle -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
